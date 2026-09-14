@@ -1,5 +1,7 @@
 # FORAGER <img align="right" width="128" height="125" alt="Logo FORAGER 1_JPEG" src="https://github.com/user-attachments/assets/62545656-55d8-479c-9fa4-a2d7ccdf92ef" /> <br/>
-FORAGER is a 6-year project and led by Oliver Craig (University of York), Enrico Crema (University of Cambridge), Peter Jordan (Lund University), and Anna Prentiss (University of Montana). Together with 37 scientists across 9 institutions in 7 countries, we work across every scale of evidence, from food crusts in pottery to global climate simulations. <br/> This GitHub profile contains various repositories related to the [FORAGER project](https://www.forager-erc.eu/home).
+FORAGER is a 6-year project led by Oliver Craig (University of York), Enrico Crema (University of Cambridge), Peter Jordan (Lund University), and Anna Prentiss (University of Montana). Together with 37 scientists across 9 institutions in 7 countries, we work across every scale of evidence, from food crusts in pottery to global climate simulations. 
+<br/>
+<br/> This GitHub profile contains various repositories related to the [FORAGER project](https://www.forager-erc.eu/home).
 
 ------
 ## Acknowledgements
